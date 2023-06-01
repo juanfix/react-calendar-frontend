@@ -1,10 +1,10 @@
 # React Calendar Frontend
 
-This project was developed with React JS 18.2.0, Redux, and React Big Calendar. It registers events in a calendar with a title, start date, end date, and some notes. It uses the following Endpoints [Node Calendar Backend](https://github.com/juanfix/node-calendar-backend)
+This project was developed with React JS 18.2.0, Redux, and React Big Calendar. It registers events in a calendar with a title, start date, end date, and some notes. It uses the following Endpoints [Node Calendar Backend](https://github.com/juanfix/node-calendar-backend).
 
 ## See a Demo
 
-You can view how this project is without download it on [Vercel](https://jj-journal-app.vercel.app/)
+You can view how this project is without download it on [Vercel](https://react-calendar-frontend.vercel.app/)
 
 ## Development server
 
