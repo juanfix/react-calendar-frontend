@@ -1,0 +1,14 @@
+.rbc-toolbar span button {
+  color: beige;
+  background-color: #292b2c;
+  border-radius: 50px;
+}
+
+.rbc-off-range-bg{
+  background-color: #161616;
+}
+
+.rbc-now button {
+  color: #292b2c;
+}
+  
